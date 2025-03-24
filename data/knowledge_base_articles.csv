@@ -1,0 +1,6 @@
+kb_id,title,issue_type,summary,resolution_steps
+KB001,High CPU Usage,Performance,CPU consistently above threshold,Restart app and optimize code
+KB002,Memory Leak,Memory,Gradual memory consumption,Fix memory leak and restart
+KB003,Security Breach Attempt,Security,Unauthorized access attempts,Block IPs and reset passwords
+KB004,Application Crash,Stability,Unhandled exceptions cause crash,Patch code and add error handling
+KB005,Disk Full,Capacity,Disk usage critical,Delete temp files and expand disk

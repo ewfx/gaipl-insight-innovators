@@ -1,0 +1,101 @@
+rec_id,timestamp,server_id,app_id,recommendation,similarity_tag
+rec001,2023-11-01 02:40:00,srv0920,app003,Scale out app or optimize CPU-intensive modules,HighCPU
+rec002,2023-11-01 04:45:00,srv0507,app003,Perform memory profiling and restart periodically,MemoryLeak
+rec003,2023-11-01 03:05:00,srv0590,app016,Enable MFA and audit login attempts,SecurityBreach
+rec004,2023-11-01 01:00:00,srv0474,app009,Enable MFA and audit login attempts,SecurityBreach
+rec005,2023-11-01 04:05:00,srv1109,app007,Scale out app or optimize CPU-intensive modules,HighCPU
+rec006,2023-11-01 01:10:00,srv0047,app015,Scale out app or optimize CPU-intensive modules,HighCPU
+rec007,2023-11-01 03:55:00,srv0582,app012,Add null checks and exception handling,AppCrash
+rec008,2023-11-01 02:00:00,srv0700,app015,Perform memory profiling and restart periodically,MemoryLeak
+rec009,2023-11-01 02:30:00,srv0137,app012,Add null checks and exception handling,AppCrash
+rec010,2023-11-01 04:40:00,srv0843,app007,Add null checks and exception handling,AppCrash
+rec011,2023-11-01 01:05:00,srv1330,app005,Add null checks and exception handling,AppCrash
+rec012,2023-11-01 02:00:00,srv1344,app013,Enable MFA and audit login attempts,SecurityBreach
+rec013,2023-11-01 02:25:00,srv1590,app007,Perform memory profiling and restart periodically,MemoryLeak
+rec014,2023-11-01 01:25:00,srv1777,app017,Perform memory profiling and restart periodically,MemoryLeak
+rec015,2023-11-01 00:40:00,srv1596,app015,Scale out app or optimize CPU-intensive modules,HighCPU
+rec016,2023-11-01 03:00:00,srv1027,app004,Scale out app or optimize CPU-intensive modules,HighCPU
+rec017,2023-11-01 00:40:00,srv1780,app018,Scale out app or optimize CPU-intensive modules,HighCPU
+rec018,2023-11-01 02:25:00,srv0953,app003,Add null checks and exception handling,AppCrash
+rec019,2023-11-01 04:00:00,srv0038,app019,Enable MFA and audit login attempts,SecurityBreach
+rec020,2023-11-01 04:40:00,srv1879,app003,Enable MFA and audit login attempts,SecurityBreach
+rec021,2023-11-01 04:10:00,srv1771,app005,Perform memory profiling and restart periodically,MemoryLeak
+rec022,2023-11-01 00:25:00,srv1552,app012,Add null checks and exception handling,AppCrash
+rec023,2023-11-01 02:35:00,srv1459,app020,Perform memory profiling and restart periodically,MemoryLeak
+rec024,2023-11-01 02:30:00,srv1537,app018,Add null checks and exception handling,AppCrash
+rec025,2023-11-01 00:00:00,srv0479,app006,Add null checks and exception handling,AppCrash
+rec026,2023-11-01 01:15:00,srv1956,app013,Enable MFA and audit login attempts,SecurityBreach
+rec027,2023-11-01 03:05:00,srv1454,app004,Perform memory profiling and restart periodically,MemoryLeak
+rec028,2023-11-01 04:50:00,srv1276,app006,Scale out app or optimize CPU-intensive modules,HighCPU
+rec029,2023-11-01 00:10:00,srv0180,app008,Scale out app or optimize CPU-intensive modules,HighCPU
+rec030,2023-11-01 03:50:00,srv0622,app007,Scale out app or optimize CPU-intensive modules,HighCPU
+rec031,2023-11-01 02:45:00,srv0977,app009,Add null checks and exception handling,AppCrash
+rec032,2023-11-01 04:15:00,srv1427,app007,Scale out app or optimize CPU-intensive modules,HighCPU
+rec033,2023-11-01 02:35:00,srv1149,app001,Perform memory profiling and restart periodically,MemoryLeak
+rec034,2023-11-01 02:55:00,srv0796,app004,Scale out app or optimize CPU-intensive modules,HighCPU
+rec035,2023-11-01 01:05:00,srv0462,app003,Perform memory profiling and restart periodically,MemoryLeak
+rec036,2023-11-01 01:30:00,srv1254,app001,Perform memory profiling and restart periodically,MemoryLeak
+rec037,2023-11-01 00:05:00,srv0848,app002,Add null checks and exception handling,AppCrash
+rec038,2023-11-01 00:50:00,srv0620,app017,Add null checks and exception handling,AppCrash
+rec039,2023-11-01 03:55:00,srv0780,app014,Scale out app or optimize CPU-intensive modules,HighCPU
+rec040,2023-11-01 02:25:00,srv0303,app007,Perform memory profiling and restart periodically,MemoryLeak
+rec041,2023-11-01 00:55:00,srv0204,app014,Enable MFA and audit login attempts,SecurityBreach
+rec042,2023-11-01 03:45:00,srv0336,app001,Scale out app or optimize CPU-intensive modules,HighCPU
+rec043,2023-11-01 02:00:00,srv0136,app002,Enable MFA and audit login attempts,SecurityBreach
+rec044,2023-11-01 01:30:00,srv0855,app009,Add null checks and exception handling,AppCrash
+rec045,2023-11-01 03:40:00,srv1411,app013,Perform memory profiling and restart periodically,MemoryLeak
+rec046,2023-11-01 00:25:00,srv0045,app009,Enable MFA and audit login attempts,SecurityBreach
+rec047,2023-11-01 02:40:00,srv1893,app007,Enable MFA and audit login attempts,SecurityBreach
+rec048,2023-11-01 00:35:00,srv0805,app017,Add null checks and exception handling,AppCrash
+rec049,2023-11-01 02:25:00,srv0124,app007,Scale out app or optimize CPU-intensive modules,HighCPU
+rec050,2023-11-01 01:55:00,srv1432,app003,Perform memory profiling and restart periodically,MemoryLeak
+rec051,2023-11-01 02:55:00,srv0922,app017,Perform memory profiling and restart periodically,MemoryLeak
+rec052,2023-11-01 01:45:00,srv1934,app007,Perform memory profiling and restart periodically,MemoryLeak
+rec053,2023-11-01 03:25:00,srv0029,app011,Add null checks and exception handling,AppCrash
+rec054,2023-11-01 04:00:00,srv0874,app001,Perform memory profiling and restart periodically,MemoryLeak
+rec055,2023-11-01 01:50:00,srv0837,app017,Enable MFA and audit login attempts,SecurityBreach
+rec056,2023-11-01 03:35:00,srv1912,app006,Add null checks and exception handling,AppCrash
+rec057,2023-11-01 00:15:00,srv0651,app013,Scale out app or optimize CPU-intensive modules,HighCPU
+rec058,2023-11-01 01:50:00,srv1947,app004,Add null checks and exception handling,AppCrash
+rec059,2023-11-01 02:40:00,srv0528,app009,Scale out app or optimize CPU-intensive modules,HighCPU
+rec060,2023-11-01 03:45:00,srv1079,app014,Enable MFA and audit login attempts,SecurityBreach
+rec061,2023-11-01 03:15:00,srv1402,app006,Enable MFA and audit login attempts,SecurityBreach
+rec062,2023-11-01 01:00:00,srv1092,app003,Add null checks and exception handling,AppCrash
+rec063,2023-11-01 00:25:00,srv0640,app005,Add null checks and exception handling,AppCrash
+rec064,2023-11-01 01:30:00,srv1337,app005,Scale out app or optimize CPU-intensive modules,HighCPU
+rec065,2023-11-01 00:50:00,srv1194,app005,Enable MFA and audit login attempts,SecurityBreach
+rec066,2023-11-01 03:40:00,srv1936,app002,Perform memory profiling and restart periodically,MemoryLeak
+rec067,2023-11-01 00:45:00,srv1515,app004,Perform memory profiling and restart periodically,MemoryLeak
+rec068,2023-11-01 03:20:00,srv1331,app003,Scale out app or optimize CPU-intensive modules,HighCPU
+rec069,2023-11-01 02:10:00,srv0228,app003,Perform memory profiling and restart periodically,MemoryLeak
+rec070,2023-11-01 01:50:00,srv1802,app018,Add null checks and exception handling,AppCrash
+rec071,2023-11-01 03:55:00,srv0418,app013,Scale out app or optimize CPU-intensive modules,HighCPU
+rec072,2023-11-01 01:00:00,srv1767,app008,Scale out app or optimize CPU-intensive modules,HighCPU
+rec073,2023-11-01 04:35:00,srv1913,app012,Perform memory profiling and restart periodically,MemoryLeak
+rec074,2023-11-01 02:10:00,srv1281,app013,Enable MFA and audit login attempts,SecurityBreach
+rec075,2023-11-01 02:35:00,srv0127,app014,Add null checks and exception handling,AppCrash
+rec076,2023-11-01 01:35:00,srv0464,app012,Perform memory profiling and restart periodically,MemoryLeak
+rec077,2023-11-01 00:50:00,srv1072,app014,Enable MFA and audit login attempts,SecurityBreach
+rec078,2023-11-01 02:30:00,srv1099,app001,Enable MFA and audit login attempts,SecurityBreach
+rec079,2023-11-01 04:05:00,srv0176,app011,Scale out app or optimize CPU-intensive modules,HighCPU
+rec080,2023-11-01 01:50:00,srv1241,app012,Enable MFA and audit login attempts,SecurityBreach
+rec081,2023-11-01 00:50:00,srv1111,app003,Perform memory profiling and restart periodically,MemoryLeak
+rec082,2023-11-01 00:55:00,srv1852,app001,Perform memory profiling and restart periodically,MemoryLeak
+rec083,2023-11-01 00:50:00,srv1253,app008,Perform memory profiling and restart periodically,MemoryLeak
+rec084,2023-11-01 00:10:00,srv0473,app018,Enable MFA and audit login attempts,SecurityBreach
+rec085,2023-11-01 02:20:00,srv1085,app004,Enable MFA and audit login attempts,SecurityBreach
+rec086,2023-11-01 00:55:00,srv1521,app011,Perform memory profiling and restart periodically,MemoryLeak
+rec087,2023-11-01 03:45:00,srv1810,app001,Scale out app or optimize CPU-intensive modules,HighCPU
+rec088,2023-11-01 01:40:00,srv0313,app011,Enable MFA and audit login attempts,SecurityBreach
+rec089,2023-11-01 01:55:00,srv1568,app009,Add null checks and exception handling,AppCrash
+rec090,2023-11-01 00:50:00,srv1375,app014,Enable MFA and audit login attempts,SecurityBreach
+rec091,2023-11-01 04:50:00,srv0322,app011,Scale out app or optimize CPU-intensive modules,HighCPU
+rec092,2023-11-01 04:55:00,srv1513,app001,Add null checks and exception handling,AppCrash
+rec093,2023-11-01 02:25:00,srv1421,app006,Enable MFA and audit login attempts,SecurityBreach
+rec094,2023-11-01 00:00:00,srv1475,app004,Enable MFA and audit login attempts,SecurityBreach
+rec095,2023-11-01 03:45:00,srv0275,app007,Enable MFA and audit login attempts,SecurityBreach
+rec096,2023-11-01 04:45:00,srv0574,app009,Enable MFA and audit login attempts,SecurityBreach
+rec097,2023-11-01 04:15:00,srv1246,app012,Add null checks and exception handling,AppCrash
+rec098,2023-11-01 03:40:00,srv0312,app003,Scale out app or optimize CPU-intensive modules,HighCPU
+rec099,2023-11-01 04:45:00,srv0378,app015,Scale out app or optimize CPU-intensive modules,HighCPU
+rec100,2023-11-01 03:35:00,srv0320,app012,Scale out app or optimize CPU-intensive modules,HighCPU

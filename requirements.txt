@@ -1,0 +1,8 @@
+streamlit
+pandas
+langchain
+openai
+tqdm
+plotly
+python-dotenv
+faiss-cpu
