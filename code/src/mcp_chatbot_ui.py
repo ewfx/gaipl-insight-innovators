@@ -64,18 +64,6 @@ def mcp_chatbot():
             st.chat_message("assistant").markdown(farewell_msg)
             st.session_state.chat_history.append(("agent", farewell_msg))
 
-        elif not is_support_query(user_input):
-            usage_msg = (
-                """⚠️ I'm designed to help with platform support topics like:
-                - Incidents (e.g., `What caused inc045?`)
-                - Telemetry issues (e.g., `Any memory or CPU spikes?`)
-                - Knowledge Base queries (e.g., `Search KB for memory leak`)
-                - Automation suggestions (e.g., `Script for service restart`)
-    """
-            )
-            st.chat_message("assistant").markdown(usage_msg)
-            st.session_state.chat_history.append(("agent", usage_msg))
-
         else:
             with st.spinner("Thinking..."):
                 response = st.session_state.agent.run(user_input)
