@@ -1,4 +1,4 @@
-# 🤖 GenAI MCP Chatbot – Platform Support Assistant
+# 🤖 GenAI MCP Chatbot – Platform Support Assistant(SmartOps)
 
 This project is a full-stack GenAI-powered chatbot for platform support teams. It integrates telemetry, incident logs, KB articles, and automation scripts to provide real-time, context-aware incident resolution using LangChain agents and OpenAI GPT.
 
@@ -15,7 +15,7 @@ This project is a full-stack GenAI-powered chatbot for platform support teams. I
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure i.e. under code/src
 
 ```
 genai-ipe-chatbot/
