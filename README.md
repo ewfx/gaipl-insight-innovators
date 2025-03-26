@@ -21,10 +21,11 @@ This project is a full-stack GenAI-powered chatbot for platform support teams. I
 SmartOps/
 ├── agents/                      ← All agent tools (RCA, KB, telemetry, etc.)
 ├── /kb_*                        ← FAISS index & builder for KB articles
-├── data/                        ← SQLite database (MCP context store)
+├── data/                        ← SQLite database (MCP context store
+├── /incident_resolver.py        ← Incident RCA and quick resolve issue
 ├── /mcp_chatbot_ui.py           ← Streamlit UI entry point
 ├── /mcp_chatbot_agent.py        ← LangChain unified agent setup
-├── /ui.py        ← LangChain unified agent setup
+├── /ui.py                       ← main file to run the app
 ├── requirements.txt             ← App dependencies
 ├── README.md
 ```
