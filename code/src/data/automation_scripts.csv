@@ -1,0 +1,6 @@
+script_id,name,description,command
+auto001,Restart Application,Restarts the specified application service,ansible-playbook restart_app.yml --limit {server_id}
+auto002,Clear Temp Files,Clears temporary files to free up disk space,ansible-playbook clear_temp.yml --limit {server_id}
+auto003,Increase CPU Cores,Provisions additional CPU resources,ansible-playbook scale_cpu.yml --limit {server_id}
+auto004,Abort DB Connections,Kills idle database connections to release memory,ansible-playbook abort_db_connections.yml --limit {server_id}
+auto005,Block Malicious IP,Blocks a specified malicious IP from accessing the server,ansible-playbook block_ip.yml --extra-vars 'ip={ip}'

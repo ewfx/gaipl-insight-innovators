@@ -1,0 +1,16 @@
+# Core
+streamlit
+pandas
+langchain
+openai
+tqdm
+python-dotenv
+tiktoken
+langchain-community
+langchain-openai
+
+# Vector store for KB search
+faiss-cpu
+
+# Optional UI/plotting support
+plotly

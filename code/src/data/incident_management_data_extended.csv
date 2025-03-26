@@ -1,0 +1,341 @@
+incident_id,timestamp,server_id,app_id,description,root_cause,resolution
+inc001,2023-11-01 02:45:00,srv0092,app013,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc002,2023-11-01 02:25:00,srv1893,app007,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc003,2023-11-01 02:45:00,srv1676,app004,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc004,2023-11-01 02:55:00,srv0479,app001,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc005,2023-11-01 04:00:00,srv0409,app013,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc006,2023-11-01 01:30:00,srv1404,app010,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc007,2023-11-01 04:40:00,srv0766,app018,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc008,2023-11-01 02:25:00,srv0320,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc009,2023-11-01 01:30:00,srv1552,app012,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc010,2023-11-01 02:45:00,srv1492,app018,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc011,2023-11-01 04:25:00,srv1747,app015,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc012,2023-11-01 03:50:00,srv0176,app017,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc013,2023-11-01 04:05:00,srv0231,app005,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc014,2023-11-01 02:10:00,srv1515,app004,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc015,2023-11-01 00:05:00,srv0112,app003,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc016,2023-11-01 03:05:00,srv0498,app007,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc017,2023-11-01 00:25:00,srv1944,app019,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc018,2023-11-01 03:40:00,srv1272,app008,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc019,2023-11-01 00:25:00,srv1898,app002,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc020,2023-11-01 03:20:00,srv0303,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc021,2023-11-01 02:45:00,srv1780,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc022,2023-11-01 04:10:00,srv1705,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc023,2023-11-01 02:55:00,srv1680,app005,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc024,2023-11-01 04:05:00,srv0590,app005,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc025,2023-11-01 03:00:00,srv0029,app011,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc026,2023-11-01 04:35:00,srv0704,app013,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc027,2023-11-01 04:05:00,srv1421,app006,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc028,2023-11-01 01:35:00,srv1648,app012,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc029,2023-11-01 01:30:00,srv0228,app003,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc030,2023-11-01 04:45:00,srv0625,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc031,2023-11-01 00:00:00,srv0922,app017,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc032,2023-11-01 02:25:00,srv0965,app003,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc033,2023-11-01 02:50:00,srv0047,app015,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc034,2023-11-01 01:15:00,srv0680,app010,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc035,2023-11-01 03:30:00,srv0429,app002,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc036,2023-11-01 02:10:00,srv1516,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc037,2023-11-01 03:10:00,srv1102,app013,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc038,2023-11-01 04:40:00,srv0434,app005,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc039,2023-11-01 03:20:00,srv0418,app015,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc040,2023-11-01 00:55:00,srv1120,app002,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc041,2023-11-01 03:25:00,srv1072,app009,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc042,2023-11-01 00:45:00,srv1537,app017,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc043,2023-11-01 01:45:00,srv0530,app010,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc044,2023-11-01 00:30:00,srv1124,app012,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc045,2023-11-01 00:50:00,srv0990,app012,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc046,2023-11-01 02:25:00,srv1276,app006,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc047,2023-11-01 00:25:00,srv1495,app016,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc048,2023-11-01 01:55:00,srv0290,app018,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc049,2023-11-01 04:00:00,srv1424,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc050,2023-11-01 01:30:00,srv1432,app006,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc051,2023-11-01 00:35:00,srv1369,app016,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc052,2023-11-01 02:45:00,srv0038,app014,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc053,2023-11-01 03:40:00,srv0772,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc054,2023-11-01 00:30:00,srv1194,app005,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc055,2023-11-01 03:50:00,srv1856,app018,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc056,2023-11-01 03:10:00,srv1359,app013,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc057,2023-11-01 02:45:00,srv1079,app014,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc058,2023-11-01 03:15:00,srv0090,app006,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc059,2023-11-01 03:50:00,srv0524,app019,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc060,2023-11-01 04:15:00,srv0349,app012,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc061,2023-11-01 03:45:00,srv0124,app020,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc062,2023-11-01 00:00:00,srv0582,app012,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc063,2023-11-01 02:25:00,srv0412,app020,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc064,2023-11-01 04:15:00,srv1617,app010,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc065,2023-11-01 00:10:00,srv1427,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc066,2023-11-01 02:55:00,srv1266,app012,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc067,2023-11-01 03:20:00,srv0556,app012,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc068,2023-11-01 01:20:00,srv0109,app007,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc069,2023-11-01 01:35:00,srv0953,app003,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc070,2023-11-01 00:35:00,srv1341,app012,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc071,2023-11-01 02:05:00,srv1936,app012,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc072,2023-11-01 01:00:00,srv0018,app004,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc073,2023-11-01 04:55:00,srv0137,app002,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc074,2023-11-01 04:15:00,srv0796,app006,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc075,2023-11-01 02:30:00,srv1353,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc076,2023-11-01 04:45:00,srv1358,app003,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc077,2023-11-01 04:10:00,srv1746,app008,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc078,2023-11-01 04:25:00,srv1870,app018,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc079,2023-11-01 02:55:00,srv1352,app011,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc080,2023-11-01 03:00:00,srv0738,app012,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc081,2023-11-01 00:20:00,srv1771,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc082,2023-11-01 04:25:00,srv0221,app011,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc083,2023-11-01 02:00:00,srv0040,app003,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc084,2023-11-01 00:55:00,srv0600,app016,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc085,2023-11-01 03:45:00,srv1777,app017,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc086,2023-11-01 00:10:00,srv1810,app001,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc087,2023-11-01 00:25:00,srv1330,app005,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc088,2023-11-01 01:55:00,srv0792,app011,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc089,2023-11-01 01:05:00,srv0474,app009,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc090,2023-11-01 00:35:00,srv0780,app002,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc091,2023-11-01 04:05:00,srv1042,app018,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc092,2023-11-01 02:20:00,srv1454,app004,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc093,2023-11-01 04:45:00,srv0204,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc094,2023-11-01 01:45:00,srv1852,app018,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc095,2023-11-01 04:05:00,srv0647,app017,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc096,2023-11-01 04:05:00,srv0993,app020,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc097,2023-11-01 01:05:00,srv1776,app019,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc098,2023-11-01 02:00:00,srv1223,app006,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc099,2023-11-01 01:35:00,srv1089,app005,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc100,2023-11-01 01:45:00,srv0181,app020,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc101,2023-11-01 00:30:00,srv0382,app012,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc102,2023-11-01 03:00:00,srv0408,app004,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc103,2023-11-01 04:45:00,srv1026,app011,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc104,2023-11-01 01:00:00,srv1980,app005,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc105,2023-11-01 01:25:00,srv0938,app008,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc106,2023-11-01 03:30:00,srv1149,app001,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc107,2023-11-01 00:45:00,srv1460,app001,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc108,2023-11-01 00:35:00,srv0045,app018,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc109,2023-11-01 02:55:00,srv0082,app008,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc110,2023-11-01 02:50:00,srv0507,app003,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc111,2023-11-01 01:25:00,srv1889,app002,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc112,2023-11-01 03:00:00,srv1085,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc113,2023-11-01 00:20:00,srv0684,app020,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc114,2023-11-01 02:50:00,srv1004,app010,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc115,2023-11-01 00:40:00,srv0806,app010,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc116,2023-11-01 04:45:00,srv1525,app017,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc117,2023-11-01 02:00:00,srv0322,app011,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc118,2023-11-01 02:15:00,srv0711,app017,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc119,2023-11-01 03:45:00,srv1402,app018,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc120,2023-11-01 01:50:00,srv0721,app018,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc121,2023-11-01 04:20:00,srv0728,app013,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc122,2023-11-01 04:55:00,srv1281,app013,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc123,2023-11-01 00:25:00,srv0620,app010,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc124,2023-11-01 02:25:00,srv0484,app015,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc125,2023-11-01 03:25:00,srv1027,app004,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc126,2023-11-01 01:10:00,srv0565,app006,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc127,2023-11-01 04:35:00,srv1663,app011,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc128,2023-11-01 02:05:00,srv0127,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc129,2023-11-01 04:10:00,srv1282,app006,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc130,2023-11-01 02:35:00,srv0528,app009,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc131,2023-11-01 02:30:00,srv1800,app001,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc132,2023-11-01 02:30:00,srv0793,app020,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc133,2023-11-01 01:30:00,srv1824,app019,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc134,2023-11-01 02:40:00,srv1669,app016,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc135,2023-11-01 04:20:00,srv0061,app014,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc136,2023-11-01 02:55:00,srv1934,app007,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc137,2023-11-01 02:50:00,srv1137,app005,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc138,2023-11-01 03:05:00,srv0574,app009,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc139,2023-11-01 03:15:00,srv0462,app003,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc140,2023-11-01 02:30:00,srv0311,app017,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc141,2023-11-01 01:45:00,srv0700,app015,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc142,2023-11-01 04:10:00,srv1838,app001,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc143,2023-11-01 04:10:00,srv0805,app004,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc144,2023-11-01 00:55:00,srv1346,app011,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc145,2023-11-01 00:35:00,srv0282,app001,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc146,2023-11-01 02:55:00,srv0180,app008,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc147,2023-11-01 00:55:00,srv0783,app002,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc148,2023-11-01 00:20:00,srv1067,app009,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc149,2023-11-01 01:40:00,srv1968,app007,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc150,2023-11-01 00:25:00,srv1389,app017,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc151,2023-11-01 04:40:00,srv1255,app001,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc152,2023-11-01 03:30:00,srv1788,app018,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc153,2023-11-01 02:50:00,srv1406,app010,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc154,2023-11-01 03:15:00,srv0466,app019,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc155,2023-11-01 01:05:00,srv0855,app009,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc156,2023-11-01 03:00:00,srv0493,app012,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc157,2023-11-01 03:45:00,srv1174,app016,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc158,2023-11-01 03:05:00,srv0313,app002,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc159,2023-11-01 04:30:00,srv0874,app007,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc160,2023-11-01 00:15:00,srv1988,app005,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc161,2023-11-01 00:00:00,srv0640,app005,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc162,2023-11-01 04:35:00,srv1864,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc163,2023-11-01 01:15:00,srv1240,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc164,2023-11-01 03:20:00,srv0675,app010,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc165,2023-11-01 02:00:00,srv0920,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc166,2023-11-01 02:15:00,srv1111,app003,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc167,2023-11-01 02:30:00,srv0270,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc168,2023-11-01 02:55:00,srv0424,app008,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc169,2023-11-01 04:25:00,srv1337,app020,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc170,2023-11-01 01:30:00,srv0284,app011,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc171,2023-11-01 00:00:00,srv1190,app005,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc172,2023-11-01 00:45:00,srv1109,app007,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc173,2023-11-01 00:40:00,srv1401,app009,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc174,2023-11-01 03:25:00,srv1639,app015,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc175,2023-11-01 04:45:00,srv0415,app002,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc176,2023-11-01 02:25:00,srv1767,app007,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc177,2023-11-01 04:20:00,srv0283,app019,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc178,2023-11-01 01:50:00,srv0633,app020,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc179,2023-11-01 02:15:00,srv1411,app013,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc180,2023-11-01 04:30:00,srv1445,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc181,2023-11-01 02:40:00,srv1841,app015,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc182,2023-11-01 04:55:00,srv1073,app020,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc183,2023-11-01 00:10:00,srv1863,app018,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc184,2023-11-01 00:35:00,srv0277,app010,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc185,2023-11-01 00:25:00,srv0881,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc186,2023-11-01 03:50:00,srv1862,app009,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc187,2023-11-01 02:45:00,srv1999,app012,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc188,2023-11-01 01:15:00,srv1578,app008,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc189,2023-11-01 03:55:00,srv0298,app001,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc190,2023-11-01 03:15:00,srv1344,app005,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc191,2023-11-01 02:50:00,srv1911,app018,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc192,2023-11-01 02:25:00,srv1157,app008,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc193,2023-11-01 02:10:00,srv1879,app005,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc194,2023-11-01 01:30:00,srv0324,app018,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc195,2023-11-01 03:40:00,srv0651,app017,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc196,2023-11-01 04:10:00,srv0139,app018,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc197,2023-11-01 03:20:00,srv1142,app015,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc198,2023-11-01 03:00:00,srv1092,app003,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc199,2023-11-01 04:15:00,srv1943,app007,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc200,2023-11-01 02:35:00,srv1474,app012,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc201,2023-11-01 02:40:00,srv0243,app012,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc202,2023-11-01 01:20:00,srv0378,app015,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc203,2023-11-01 01:25:00,srv1720,app020,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc204,2023-11-01 03:55:00,srv1802,app017,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc205,2023-11-01 04:50:00,srv0299,app015,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc206,2023-11-01 02:20:00,srv1490,app014,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc207,2023-11-01 01:20:00,srv1568,app009,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc208,2023-11-01 00:55:00,srv0653,app007,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc209,2023-11-01 00:25:00,srv1803,app009,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc210,2023-11-01 04:25:00,srv1993,app009,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc211,2023-11-01 04:05:00,srv0848,app002,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc212,2023-11-01 03:30:00,srv1969,app003,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc213,2023-11-01 01:05:00,srv0843,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc214,2023-11-01 03:25:00,srv0622,app002,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc215,2023-11-01 00:15:00,srv0908,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc216,2023-11-01 02:05:00,srv1528,app018,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc217,2023-11-01 02:30:00,srv1913,app011,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc218,2023-11-01 03:35:00,srv1683,app006,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc219,2023-11-01 01:20:00,srv1832,app001,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc220,2023-11-01 04:35:00,srv1305,app007,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc221,2023-11-01 01:30:00,srv1912,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc222,2023-11-01 03:35:00,srv1513,app001,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc223,2023-11-01 00:30:00,srv0561,app004,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc224,2023-11-01 03:15:00,srv0312,app003,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc225,2023-11-01 01:25:00,srv1596,app015,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc226,2023-11-01 01:20:00,srv0385,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc227,2023-11-01 04:05:00,srv0219,app005,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc228,2023-11-01 03:35:00,srv0379,app020,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc229,2023-11-01 03:35:00,srv0054,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc230,2023-11-01 02:55:00,srv1562,app006,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc231,2023-11-01 00:00:00,srv1254,app017,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc232,2023-11-01 02:10:00,srv1264,app014,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc233,2023-11-01 03:35:00,srv0547,app018,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc234,2023-11-01 01:10:00,srv1241,app019,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc235,2023-11-01 01:00:00,srv1162,app002,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc236,2023-11-01 03:15:00,srv0473,app018,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc237,2023-11-01 03:10:00,srv1222,app013,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc238,2023-11-01 03:20:00,srv0476,app001,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc239,2023-11-01 00:25:00,srv1408,app019,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc240,2023-11-01 03:30:00,srv0736,app018,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc241,2023-11-01 03:40:00,srv0163,app007,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc242,2023-11-01 01:30:00,srv1410,app017,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc243,2023-11-01 03:20:00,srv1598,app002,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc244,2023-11-01 04:05:00,srv0977,app009,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc245,2023-11-01 04:45:00,srv0275,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc246,2023-11-01 00:50:00,srv1029,app010,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc247,2023-11-01 04:05:00,srv1733,app017,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc248,2023-11-01 02:00:00,srv1239,app009,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc249,2023-11-01 01:20:00,srv0961,app010,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc250,2023-11-01 02:20:00,srv1459,app016,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc251,2023-11-01 04:55:00,srv1331,app011,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc252,2023-11-01 00:55:00,srv0377,app005,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc253,2023-11-01 00:45:00,srv0794,app013,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc254,2023-11-01 03:15:00,srv1007,app015,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc255,2023-11-01 03:45:00,srv0971,app011,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc256,2023-11-01 00:10:00,srv0336,app018,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc257,2023-11-01 03:00:00,srv0396,app005,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc258,2023-11-01 00:05:00,srv0464,app012,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc259,2023-11-01 03:25:00,srv0067,app001,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc260,2023-11-01 03:30:00,srv0837,app013,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc261,2023-11-01 00:45:00,srv1566,app009,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc262,2023-11-01 03:00:00,srv1985,app016,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc263,2023-11-01 02:30:00,srv0031,app011,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc264,2023-11-01 04:30:00,srv1896,app009,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc265,2023-11-01 00:00:00,srv0553,app018,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc266,2023-11-01 04:20:00,srv1947,app006,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc267,2023-11-01 03:00:00,srv0846,app004,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc268,2023-11-01 03:35:00,srv0456,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc269,2023-11-01 00:15:00,srv1521,app011,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc270,2023-11-01 02:50:00,srv1375,app009,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc271,2023-11-01 04:25:00,srv0416,app016,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc272,2023-11-01 03:25:00,srv0419,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc273,2023-11-01 02:55:00,srv0136,app002,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc274,2023-11-01 03:30:00,srv0363,app013,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc275,2023-11-01 03:40:00,srv1899,app005,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc276,2023-11-01 03:20:00,srv1956,app013,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc277,2023-11-01 00:25:00,srv0900,app007,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc278,2023-11-01 01:00:00,srv1409,app016,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc279,2023-11-01 01:00:00,srv0666,app005,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc280,2023-11-01 03:05:00,srv1818,app013,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc281,2023-11-01 02:00:00,srv0506,app014,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc282,2023-11-01 03:25:00,srv0876,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc283,2023-11-01 02:50:00,srv0830,app010,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc284,2023-11-01 00:10:00,srv1590,app007,Security breach,Brute-force attack,Blocked IP and reset passwords
+inc285,2023-11-01 01:45:00,srv0086,app008,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc286,2023-11-01 00:35:00,srv1246,app006,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc287,2023-11-01 03:30:00,srv1506,app003,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc288,2023-11-01 03:55:00,srv1689,app014,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc289,2023-11-01 00:10:00,srv1475,app004,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc290,2023-11-01 03:25:00,srv0641,app002,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc291,2023-11-01 04:50:00,srv0808,app015,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc292,2023-11-01 03:40:00,srv1253,app008,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc293,2023-11-01 00:55:00,srv1924,app010,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc294,2023-11-01 04:20:00,srv1172,app010,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc295,2023-11-01 03:15:00,srv1217,app015,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc296,2023-11-01 04:20:00,srv1099,app001,High CPU usage,Infinite loop in data processing module,Restarted app and patched code
+inc297,2023-11-01 02:35:00,srv1076,app019,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc298,2023-11-01 04:15:00,srv1314,app002,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc299,2023-11-01 01:45:00,srv1794,app006,Application crash,Null pointer exception,Deployed patch to handle nulls
+inc300,2023-11-01 00:35:00,srv1443,app018,Memory leak,Unreleased file handles,Restarted service to clear memory
+inc301,2023-11-01 01:10:00,srv0221,app002,Queue Monitoring,Monitoring job or task queue depth ensures system scalability,Alert on queue length; autoscale consumers if needed
+inc302,2023-11-01 03:25:00,srv0303,app003,Service Discovery Failures,DNS resolution failures can interrupt service-to-service communication,Check DNS config and network access
+inc303,2023-11-01 02:15:00,srv0275,app008,Backup and Snapshot Events,Regular backups ensure quick disaster recovery,Verify backups; automate snapshot scheduling
+inc304,2023-11-01 02:45:00,srv1341,app007,Retry Logic on Failures,Some operations should retry safely on transient failures,Implement exponential backoff with caps
+inc305,2023-11-01 04:50:00,srv0874,app013,SSL Handshake Failures,SSL errors could result from invalid certs or mismatched protocols,Renew certificates; enforce TLS versions
+inc306,2023-11-01 01:25:00,srv0385,app011,Database Connection Timeout,"DB connections are timing out, possibly due to network or DB load",Check DB health; inspect connection pool settings; retry with backoff
+inc307,2023-11-01 04:45:00,srv1490,app015,High CPU Usage,"CPU consistently above safe threshold, often due to heavy load or code inefficiencies",Investigate processes; optimize application logic; consider scaling resources
+inc308,2023-11-01 01:45:00,srv0766,app001,Service Discovery Failures,DNS resolution failures can interrupt service-to-service communication,Check DNS config and network access
+inc309,2023-11-01 01:30:00,srv0219,app002,Disk Full Conditions,Applications failing due to lack of disk space,Clean temp files; rotate logs; increase disk size
+inc310,2023-11-01 00:40:00,srv1803,app019,Deadlocks in DB Transactions,Deadlocks can occur when resources are locked indefinitely,Use deadlock detection; optimize transaction order
+inc311,2023-11-01 03:15:00,srv0349,app020,High CPU Usage,"CPU consistently above safe threshold, often due to heavy load or code inefficiencies",Investigate processes; optimize application logic; consider scaling resources
+inc312,2023-11-01 03:30:00,srv0961,app011,Scheduled Maintenance Events,System restarts or downtimes during maintenance windows,Notify users in advance; monitor service recovery
+inc313,2023-11-01 01:45:00,srv1240,app008,Security Alerts,Unauthorized access attempts detected in logs,Audit logs; restrict IPs; enable intrusion detection
+inc314,2023-11-01 04:45:00,srv1427,app005,System Reboot Events,Unexpected reboots may indicate hardware or kernel issues,Check hardware logs; patch kernel; run diagnostics
+inc315,2023-11-01 00:45:00,srv1767,app017,Thread Pool Tuning,Proper sizing of thread pools avoids under/over-utilization,Tune thread count based on CPU cores and workload
+inc316,2023-11-01 02:55:00,srv0061,app005,Memory Leak Detection,System memory usage grows steadily over time indicating a possible leak,Use profiling tools to trace memory allocation; restart app to reclaim memory
+inc317,2023-11-01 02:25:00,srv1913,app019,Queue Monitoring,Monitoring job or task queue depth ensures system scalability,Alert on queue length; autoscale consumers if needed
+inc318,2023-11-01 00:55:00,srv0780,app020,Cache Hit/Miss Logging,Helps monitor efficiency of cache layers,Review cache strategy if hit ratio is low
+inc319,2023-11-01 00:15:00,srv1172,app020,Memory Leak Detection,System memory usage grows steadily over time indicating a possible leak,Use profiling tools to trace memory allocation; restart app to reclaim memory
+inc320,2023-11-01 00:40:00,srv0476,app018,Service Discovery Failures,DNS resolution failures can interrupt service-to-service communication,Check DNS config and network access
+inc321,2023-11-01 03:15:00,srv1528,app016,Latency Monitoring,Keep track of service latencies under varying loads,Set SLOs; trigger alerts on P95/P99 spikes
+inc322,2023-11-01 02:15:00,srv0462,app007,Database Connection Timeout,"DB connections are timing out, possibly due to network or DB load",Check DB health; inspect connection pool settings; retry with backoff
+inc323,2023-11-01 01:40:00,srv0231,app001,Database Connection Timeout,"DB connections are timing out, possibly due to network or DB load",Check DB health; inspect connection pool settings; retry with backoff
+inc324,2023-11-01 01:10:00,srv1669,app001,Application Crashes,Unhandled exceptions leading to crashes,Improve error handling; fix null references or data validation
+inc325,2023-11-01 02:20:00,srv0553,app018,Queue Monitoring,Monitoring job or task queue depth ensures system scalability,Alert on queue length; autoscale consumers if needed
+inc326,2023-11-01 02:10:00,srv0721,app006,Service Discovery Failures,DNS resolution failures can interrupt service-to-service communication,Check DNS config and network access
+inc327,2023-11-01 01:05:00,srv1956,app011,Backup and Snapshot Events,Regular backups ensure quick disaster recovery,Verify backups; automate snapshot scheduling
+inc328,2023-11-01 00:40:00,srv1281,app020,Log Rotation Issues,Failure to rotate logs can fill disk and impact performance,Use logrotate or similar tools with retention policies
+inc329,2023-11-01 03:30:00,srv1980,app006,Service Discovery Failures,DNS resolution failures can interrupt service-to-service communication,Check DNS config and network access
+inc330,2023-11-01 00:40:00,srv1521,app019,Scheduled Maintenance Events,System restarts or downtimes during maintenance windows,Notify users in advance; monitor service recovery
+inc331,2023-11-01 03:25:00,srv0738,app003,Service Discovery Failures,DNS resolution failures can interrupt service-to-service communication,Check DNS config and network access
+inc332,2023-11-01 03:25:00,srv0528,app008,System Reboot Events,Unexpected reboots may indicate hardware or kernel issues,Check hardware logs; patch kernel; run diagnostics
+inc333,2023-11-01 00:55:00,srv0396,app008,Disk Full Conditions,Applications failing due to lack of disk space,Clean temp files; rotate logs; increase disk size
+inc334,2023-11-01 04:45:00,srv1475,app008,Queue Monitoring,Monitoring job or task queue depth ensures system scalability,Alert on queue length; autoscale consumers if needed
+inc335,2023-11-01 00:15:00,srv1912,app004,System Health Checks,Automated health checks ensure services are alive and responsive,Ensure all critical services have health check endpoints
+inc336,2023-11-01 02:05:00,srv0322,app003,Service Startup Logs,Logs confirming successful service startups are useful for audits,No action needed unless inconsistent with deployment expectations
+inc337,2023-11-01 01:25:00,srv1911,app016,Service Startup Logs,Logs confirming successful service startups are useful for audits,No action needed unless inconsistent with deployment expectations
+inc338,2023-11-01 02:55:00,srv1590,app007,Application Crashes,Unhandled exceptions leading to crashes,Improve error handling; fix null references or data validation
+inc339,2023-11-01 02:35:00,srv1988,app014,System Health Checks,Automated health checks ensure services are alive and responsive,Ensure all critical services have health check endpoints
+inc340,2023-11-01 04:25:00,srv1072,app017,Retry Logic on Failures,Some operations should retry safely on transient failures,Implement exponential backoff with caps
